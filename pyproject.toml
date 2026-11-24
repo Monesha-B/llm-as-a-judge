@@ -1,0 +1,5 @@
+[project]
+name = "llm-as-a-judge"
+version = "0.1.0"
+description = "Evidence-grounded, rubric-based LLM answer comparison using Gemini"
+requires-python = ">=3.11"

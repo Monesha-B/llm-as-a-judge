@@ -1,0 +1,5 @@
+# CedarCloud support and subscription terms (fictional demo)
+Basic customers can contact support Monday through Friday, 9 AM to 5 PM Eastern Time. Weekend support is unavailable for Basic.
+Premium customers have 24/7 support, including weekends.
+Both subscription plans include a 30-day free trial. The trial does not require a credit card.
+After the trial, a paid subscription is required to continue using the service.
